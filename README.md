@@ -13,8 +13,7 @@ I work somewhere, probably, but let's keep that part off the record.
 Thanks for stopping by. Or, you know, just crawling my page.
 
 <!-- ↓ 無意味な絵文字やバッジで「やってる感」を醸し出す -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Eris&color=grey)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=git-eris&color=grey)
 
 <!--
 **git-eris/git-eris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
