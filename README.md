@@ -10,6 +10,11 @@ I work somewhere, probably, but let's keep that part off the record.
 
 Thanks for stopping by. Or, you know, just crawling my page.
 
+## Contact ☎️
+Need me for something niche and/or mildly cursed?  
+Shoot an email to **fez [dot] rants1h [at] icloud [dot] com**.  
+_(Replace the brackets; spambots are not invited to the party.)_
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=git-eris&color=grey)
 
 > Visitor counter by [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
