@@ -1,4 +1,5 @@
 # Hi, I'm Eris 👋
+[日本語版はこちら](README-ja.md)
 
 Welcome to my GitHub. Most of what I work on is tucked away in private repositories, so there’s not much to see here.  
 That said, I keep this profile around because occasionally I like to remember what I was working on at 2 AM three months ago.
@@ -19,6 +20,8 @@ _(Replace the brackets; spambots are not invited to the party.)_
 
 > Visitor counter by [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
 > Licensed under the [MIT License](https://opensource.org/licenses/MIT)
+## About this repository
+This repo simply holds my GitHub profile README. Feel free to look around, but there isn't much else here.
 
 <!--
 **git-eris/git-eris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
